@@ -1,2 +1,2 @@
-# Insta-scraper
-A simple &amp; powerful Insta profile IMG+VIDEO downloader.
+# Advanced-Image-scraper
+A simple & powerful IMG downloader.
